@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/bugal/OneDrive/Documents/GitHub/docker-alpine/docs",
-      "program": "c:/Users/bugal/OneDrive/Documents/GitHub/docker-alpine/docs/build/Debug/outDebug",
+      "cwd": "c:/Users/bugal/OneDrive/Documents/GitHub/docker-alpine/tests",
+      "program": "c:/Users/bugal/OneDrive/Documents/GitHub/docker-alpine/tests/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
